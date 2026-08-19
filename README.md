@@ -1,16 +1,22 @@
 # Java-Programming
 Java programs and practice problems while learning Java
 
-HelloWorld program:-
-Code:-
+*HelloWorld program*
+#Code:
 
-public class HelloWorld{
-
-Output:
+public class HelloWorld
+  {
+    public static void main(String[] args)
+    {
+      System.out.print("Hello,World!");
+    }
+  }
+  
+>>Output:
 Hello World
 
-Addition program:-
-Code:-
+*Addition program*
+#Code:
 
 public class Addition
 {
@@ -22,5 +28,5 @@ public class Addition
   }
 }
 
-Output:
+>>Output:
 sum 30
