@@ -30,3 +30,24 @@ public class Addition
 
 >>Output:
 sum 30
+
+*Square program*
+#Code:
+
+import java.util.Scanner;
+
+public class Square {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        int n = sc.nextInt();
+
+        System.out.println(n * n);
+    }
+}
+
+>>Output:
+5
+25
+
+
